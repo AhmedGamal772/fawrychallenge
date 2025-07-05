@@ -2,7 +2,7 @@
 
 This repository contains my solution to the Fawry Rise Journey Full Stack Development Internship challenge.
 
-##Overview
+## Overview
 
 The task was to design and implement a simple yet robust **e-commerce system** using Java with the following features:
 
@@ -14,7 +14,7 @@ The task was to design and implement a simple yet robust **e-commerce system** u
 
 I implemented the entire system in raw Java with no frameworks, to focus on solid **OOP design**, **clean code**
 
-##What I Focused On
+## What I Focused On
 
 - Using clean and readable object-oriented design
 - Covering edge cases like:
@@ -23,5 +23,5 @@ I implemented the entire system in raw Java with no frameworks, to focus on soli
   - Empty cart
   - Insufficient balance
 
-# IDE used was intellij idea
+## IDE used was intellij idea
 
