@@ -23,3 +23,5 @@ I implemented the entire system in raw Java with no frameworks, to focus on soli
   - Empty cart
   - Insufficient balance
 
+# IDE used was intellij idea
+
